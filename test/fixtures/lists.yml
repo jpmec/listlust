@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  name: MyString
+  author: MyString
+  private: false
+  status: MyString
+  edit_datetime: 2013-03-25 20:45:58
+  content: MyText
+
+two:
+  name: MyString
+  author: MyString
+  private: false
+  status: MyString
+  edit_datetime: 2013-03-25 20:45:58
+  content: MyText
